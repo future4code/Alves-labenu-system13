@@ -1,0 +1,10 @@
+POST http://localhost:3003/criarTurma
+Content-Type: application/json
+
+{
+    "id": "7562668563798",
+    "nome": "Turma Silvestre",
+    "id_docentes": "765987234", 
+    "id_estudantes": "456987263", 
+    "modulo": 5
+}
